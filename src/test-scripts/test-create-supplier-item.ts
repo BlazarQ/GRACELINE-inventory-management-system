@@ -16,6 +16,7 @@ async function testOrderFlow() {
       productName: "Test Product",
       productCategory1: "Test Category",
       productDesc: "This is a test product",
+      measurement: "pcs"
     });
     return newOrder;
     
